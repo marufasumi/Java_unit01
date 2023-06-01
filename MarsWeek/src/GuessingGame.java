@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.InputMismatchException;
 public class GuessingGame {
 
- public static void main(String[] args) throws InterruptedException {
+ public static void guessingGame() throws InterruptedException {
 
      System.out.println("Howdy, what's your name?");
      System.out.println("(type in your name) ");
